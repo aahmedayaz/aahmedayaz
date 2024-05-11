@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ahmedayaz.business@gmail.com**
 
-- ⚡ Fun fact **AI can never take over my job.**
+- ⚡ Fun fact : **AI can never take over my job.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
