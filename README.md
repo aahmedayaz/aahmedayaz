@@ -1,5 +1,3 @@
-
-<p align="center"><img align="center" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/247679443/original/a93f54545d44358abfb6549c55edbae7f1ac5bf4/do-full-stack-website-development-in-mern-using-react-nodejs.png" alt="aahmedayaz" /></p>
 <h1 align="center">Hi 👋, I'm Ahmed Ayaz</h1>
 <h3 align="center">A Full-Stack AWS & MERN Developer</h3>
 
