@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Ahmed Ayaz</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20AWS%20-%20MERN%20Developer;02%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=640&height=45&color=f75c7e&vCenter=true&pause=200&size=26" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20AWS%20-%20MERN%20Developer;04%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=640&height=45&color=f75c7e&vCenter=true&pause=200&size=26" /></a>
 </p>
 <h3 align="center">A Full-Stack AWS & MERN Developer</h3>
 
